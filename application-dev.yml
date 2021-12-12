@@ -1,6 +1,7 @@
 server:
   port: 8070
-
+config:
+  info: 123
 spring:
   application:
     name: cloud-order-service
